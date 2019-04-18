@@ -6,7 +6,7 @@ FBICLOUD
 <p align="center"><a title="FBICLOUD" target="_blank" href="https://github.com/fbicloud/solo-blog"><img src="https://img.shields.io/github/last-commit/fbicloud/solo-blog.svg?style=flat-square"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github/fbicloud/solo-blog"><img src="https://img.shields.io/github/repo-size/fbicloud/solo-blog.svg?style=flat-square"></a>
 <a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.5.0-f1e05a.svg?style=flat-square"></a>
-</p>
+<a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/fbicloud/solo-blog.svg"></a></p>
 
 ### 最新
 
