@@ -10,7 +10,10 @@ FBICLOUD
 
 ### 最新
 
-* [世界，你好！](https://blog.fbicloud.com/hello-solo)
+* [Ghost博客系统部署](https://blog.fbicloud.com/articles/2019/09/08/1567942405522.html)
+* [nginx屏蔽搜索引擎爬虫](https://blog.fbicloud.com/articles/2019/09/08/1567941260024.html)
+* [linux终端设置代理](https://blog.fbicloud.com/articles/2019/09/08/1567941141500.html)
+* [git设置代理](https://blog.fbicloud.com/articles/2019/09/08/1567941007014.html)
 
 
 
