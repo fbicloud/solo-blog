@@ -1,4 +1,4 @@
-<p align="center"><img alt="FBICLOUD" src="https://static.b3log.org/images/brand/solo-32.png"></p><h2 align="center">
+<p align="center"><img alt="FBICLOUD" src="https://lone-1251938776.cos.ap-shanghai.myqcloud.com/favicon.ico"></p><h2 align="center">
 FBICLOUD
 </h2>
 
