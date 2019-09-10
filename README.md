@@ -10,6 +10,8 @@ FBICLOUD
 
 ### 最新
 
+* [openwrt编译更改默认网段](https://blog.fbicloud.com/articles/2019/09/10/1568124639776.html)
+* [优秀电影推荐](https://blog.fbicloud.com/articles/2019/09/10/1568052159477.html)
 * [Ghost博客系统部署](https://blog.fbicloud.com/articles/2019/09/08/1567942405522.html)
 * [nginx屏蔽搜索引擎爬虫](https://blog.fbicloud.com/articles/2019/09/08/1567941260024.html)
 * [linux终端设置代理](https://blog.fbicloud.com/articles/2019/09/08/1567941141500.html)
