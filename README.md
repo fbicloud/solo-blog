@@ -10,6 +10,8 @@ FBICLOUD
 
 ### 最新
 
+* [openwrt ipv6多拨冲突](https://blog.fbicloud.com/articles/2019/09/11/1568204147698.html)
+* [openwrt开启sftp](https://blog.fbicloud.com/articles/2019/09/11/1568144383900.html)
 * [openwrt编译更改默认网段](https://blog.fbicloud.com/articles/2019/09/10/1568124639776.html)
 * [优秀电影推荐](https://blog.fbicloud.com/articles/2019/09/10/1568052159477.html)
 * [Ghost博客系统部署](https://blog.fbicloud.com/articles/2019/09/08/1567942405522.html)
