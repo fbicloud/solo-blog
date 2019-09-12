@@ -10,6 +10,7 @@ FBICLOUD
 
 ### 最新
 
+* [干掉systemd-resolved](https://blog.fbicloud.com/articles/2019/09/12/1568303659457.html)
 * [openwrt ipv6多拨冲突](https://blog.fbicloud.com/articles/2019/09/11/1568204147698.html)
 * [openwrt开启sftp](https://blog.fbicloud.com/articles/2019/09/11/1568144383900.html)
 * [openwrt编译更改默认网段](https://blog.fbicloud.com/articles/2019/09/10/1568124639776.html)
